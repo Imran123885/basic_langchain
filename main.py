@@ -44,4 +44,4 @@ result = chain({
     "task": args.task
 })
 
-print(result["code"])
+print(result["test"])
